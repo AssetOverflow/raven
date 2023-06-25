@@ -1,4 +1,4 @@
-# Conversation with ChatGPT-4 abour RAVEN and the Core Objective Functions
+# Conversation with ChatGPT-4 about RAVEN and the Core Objective Functions
 
 The following is a conversation I (David Shapiro) had with ChatGPT about RAVEN and the Core Objective Functions. This conversation is convincing me that my work is nearly complete. I believe that the current trend of technology is ready to participate in AGI and alignment research, and that the models are stable enough to interpret my heuristic imperatives, and we can truly begin working on fully autonomous AI systems.
 
